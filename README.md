@@ -1,4 +1,4 @@
-# SCT_SD01_Task01
+# SCT_SD_Task01
 
 # SkillCraft Internship – Task 01: Temperature Converter
 
